@@ -10,23 +10,29 @@ body{
     margin-left: 50px;
     margin-right: 50px;
     grid-template-columns:50% 50%;
+    column-gap: 20px;
 }
 .col2> p:nth-child(1){
     color:#4765F8;
     font-family: 'Poppins', sans-serif;
     font-size: 1rem;
+    height: fit-content;
+    line-height: 0;
 }
 .col2 > p{
     color:#999191;
     text-align: justify;
     font-size: 20px;
     width: 80%;
+    height: fit-content;
 }
 .col2 >h1{
     color:#0E0E0E;
     font-size: 44px;
     width: 80%;
+    margin: 0;
     font-weight: normal;
+    height: fit-content;
 }
 .col1 > img{
     width:600px;
@@ -39,5 +45,8 @@ body{
     border: none;
     border-radius: 5px;
     color: #FFFFFF;
+}
+.col2{
+    
 }
 
