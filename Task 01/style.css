@@ -16,8 +16,8 @@ body{
     color:#4765F8;
     font-family: 'Poppins', sans-serif;
     font-size: 1rem;
-    height: fit-content;
-    line-height: 0;
+    margin-bottom: 0;
+    line-height:0.5;
 }
 .col2 > p{
     color:#999191;
@@ -45,8 +45,5 @@ body{
     border: none;
     border-radius: 5px;
     color: #FFFFFF;
-}
-.col2{
-    
 }
 
