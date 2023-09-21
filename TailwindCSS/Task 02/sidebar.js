@@ -13,7 +13,7 @@ btn.addEventListener('click',()=>{
     if(btn.classList.contains('left-24')){
         sidebarcontainer.style='width:250px'
         btn.classList.add('left-56')
-    btn.classList.remove('left-24')
+        btn.classList.remove('left-24')
     }
 
     

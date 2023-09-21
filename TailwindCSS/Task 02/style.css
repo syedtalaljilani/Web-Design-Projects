@@ -542,6 +542,14 @@ video {
   left: 14rem;
 }
 
+.left-20 {
+  left: 5rem;
+}
+
+.left-24 {
+  left: 6rem;
+}
+
 .mt-3 {
   margin-top: 0.75rem;
 }
@@ -576,6 +584,10 @@ video {
 
 .rounded {
   border-radius: 0.25rem;
+}
+
+.rounded-sm {
+  border-radius: 0.125rem;
 }
 
 .bg-black {
